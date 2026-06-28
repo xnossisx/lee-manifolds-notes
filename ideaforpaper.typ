@@ -1,0 +1,1 @@
+I'm interested in Frobenius's theorem, which states that a subbundle of the tangent bundle of a manifold is integrable iff it arises from a regular foliation. I still don't know much about integrability (I need to know how to work with the Lie bracket first), and I need to learn about foliations.
